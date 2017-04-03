@@ -1,0 +1,13 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 1A6D-7079
+
+ Directory of D:\Git_Project_1
+
+04/03/2017  06:17 PM    <DIR>          .
+04/03/2017  06:17 PM    <DIR>          ..
+04/03/2017  06:15 PM    <DIR>          .git
+04/03/2017  05:34 PM                22 index.html
+04/03/2017  05:31 PM                29 test1.txt
+04/03/2017  06:17 PM                 0 test2.txt
+               3 File(s)             51 bytes
+               3 Dir(s)  135,753,068,544 bytes free
